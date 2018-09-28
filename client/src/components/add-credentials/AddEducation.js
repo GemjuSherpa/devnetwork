@@ -137,7 +137,7 @@ class AddEducation extends Component {
                 />
                 <input
                   type="submit"
-                  value="Add Experience"
+                  value="Add Education"
                   className="btn btn-info btn-block mt-4"
                 />
               </form>
